@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "images/news1.jpg",
+        "heading": "Item 1",
+        "description": "Description for Item 1",
+        "date": "2024-03-09"
+    },
+    {
+        "id": 2,
+        "image": "./images/news2.jpg",
+        "heading": "Item 2",
+        "description": "Description for Item 2",
+        "date": "2024-03-09"
+    },
+    {
+        "id": 3,
+        "image": "./images/news3.jpg",
+        "heading": "Item 3",
+        "description": "Description for Item 3",
+        "date": "2024-03-09"
+    },
+    {
+        "id": 3,
+        "image": "./images/news4.jpg",
+        "heading": "Item 3",
+        "description": "Description for Item 3",
+        "date": "2024-03-09"
+    }
+]
